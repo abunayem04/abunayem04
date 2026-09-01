@@ -1,0 +1,20 @@
+<svg width="850" height="12" viewBox="0 0 850 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF007F" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#FF007F" stop-opacity="0" />
+    </linearGradient>
+    <filter id="laserGlow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <line x1="0" y1="6" x2="850" y2="6" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="0" y="4" width="220" height="4" rx="2" fill="url(#laserGrad)" filter="url(#laserGlow)">
+    <animate attributeName="x" values="-220;850;-220" dur="4s" repeatCount="indefinite" />
+  </rect>
+</svg>
