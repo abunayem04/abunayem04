@@ -53,17 +53,34 @@
 
 ### ⚡ CURRENTLY BUILDING
 
-> **AI Agents • Full-Stack Apps • Automation**
+> *Engineering intelligent digital products at the intersection of AI, Modern Web & Business Automation.*
 
-```text
-✦ Autonomous AI Agents      : Building tool-calling multi-agent workflows and autonomous task executors
-✦ Full-Stack Applications   : Developing performant, scalable web products with Next.js 15, React 19 & APIs
-✦ Workflow Automation       : Engineering intelligent automation pipelines to eliminate repetitive business work
-```
+<br />
 
-- 🏢 **Current Organization**: Engineering full-stack and modern web architectures at **Etarnity Global**.
-- 📍 **Location**: Based in **Khulna, Bangladesh 🇧🇩** (Collaborating globally).
-- 🎯 **Primary Focus**: Bridging generative AI with intuitive, production-grade web systems.
+<table border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>🤖 Autonomous AI Agents</h4>
+      <p>Architecting self-directed multi-agent workflows, tool-calling executors, and context-aware RAG assistants.</p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>⚡ Modern Full-Stack Apps</h4>
+      <p>Developing lightning-fast, scalable digital products utilizing <b>Next.js 15</b>, <b>React 19</b>, TypeScript, and APIs.</p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>🔄 Workflow Automation</h4>
+      <p>Engineering intelligent background worker pipelines that eliminate repetitive tasks and scale business velocity.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+| Domain | Profile & Status |
+| :--- | :--- |
+| 🏢 **Current Engagement** | Full-Stack & Modern Web Engineering at **Etarnity Global** |
+| 📍 **Base Location** | Based in **Khulna, Bangladesh 🇧🇩** *(Collaborating with global clients & teams)* |
+| 🎯 **Core Focus** | Bridging generative artificial intelligence with intuitive, production-grade web systems |
 
 ---
 
