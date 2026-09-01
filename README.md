@@ -151,18 +151,132 @@
 
 ### 🚀 FEATURED PROJECTS
 
-<div align="center">
-  <p><strong>[ AI Agent ] • [ AI SaaS ] • [ AI Chatbot ] • [ Automation ] • [ Web App ] • [ Developer Tool ]</strong></p>
-</div>
+> *Production systems, autonomous AI agents & modern web applications built for scale.*
 
-| Category | Project | Architecture & Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- | :--- |
-| 🤖 **AI Agent** | **Autonomous Task Agent** | Self-directed agent capable of browsing, researching, tool calling, and generating structured insights. | `Python` `AI Tools` `Automation` | [Source Code ➔](https://github.com/abunayem04) |
-| ⚡ **AI SaaS** | **Intelligent Web Platform** | Cloud-native SaaS application integrating multi-modal AI models for automated content and workflow synthesis. | `Next.js 15` `React` `Tailwind` `AI APIs` | [Source Code ➔](https://github.com/abunayem04) |
-| 💬 **AI Chatbot** | **Context-Aware Assistant** | Enterprise support chatbot powered by Retrieval-Augmented Generation (RAG) and domain knowledge embeddings. | `TypeScript` `Vector DB` `FastAPI` | [Source Code ➔](https://github.com/abunayem04) |
-| ⚙️ **Automation** | **Data & Workflow Pipeline** | Automated background workers extracting data, processing leads, and synchronizing distributed services. | `Node.js` `Python` `Cron` `REST API` | [Source Code ➔](https://github.com/abunayem04) |
-| 🍽️ **Web App** | **[NX Restaurant](https://github.com/abunayem04/NX-resturent)** | Responsive dining platform featuring dynamic menu filtering, interactive UI, and fluid reservation systems. | `HTML5` `CSS3` `JavaScript` `UI/UX` | [Explore Repo ➔](https://github.com/abunayem04/NX-resturent) |
-| 🛠️ **Developer Tool** | **[Pixel Programmers](https://github.com/abunayem04/pixel-programmers-)** | Collaborative web learning portal engineered for developers and students to share resources and level up skills. | `HTML5` `CSS3` `JavaScript` `Responsive` | [Explore Repo ➔](https://github.com/abunayem04/pixel-programmers-) |
+<br />
+
+<table border="0" cellspacing="12" cellpadding="0">
+  <tr>
+    <!-- Project 1: AI Agent -->
+    <td width="50%" valign="top">
+      <h3>🤖 Autonomous Task Agent</h3>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Engineering-Agentic%20Workflow-8B5CF6?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-Production%20Ready-10B981?style=flat-square" alt="Status" />
+      </p>
+      <p>
+        Self-directed autonomous agent capable of browsing the web, executing multi-step tool calls, and synthesizing structured business insights.
+      </p>
+      <p>
+        <b>Tech Stack:</b> <code>Python</code> <code>LangChain</code> <code>Tool Calling</code> <code>FastAPI</code>
+      </p>
+      <p>
+        <a href="https://github.com/abunayem04" target="_blank">
+          <img src="https://img.shields.io/badge/Explore%20Code%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <!-- Project 2: AI SaaS -->
+    <td width="50%" valign="top">
+      <h3>⚡ Intelligent SaaS Platform</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Cloud%20SaaS-Next.js%2015-38BDF8?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-Active%20Architecture-10B981?style=flat-square" alt="Status" />
+      </p>
+      <p>
+        Cloud-native multi-tenant SaaS application integrating multi-modal AI models for real-time document analysis and automated content workflows.
+      </p>
+      <p>
+        <b>Tech Stack:</b> <code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind</code>
+      </p>
+      <p>
+        <a href="https://github.com/abunayem04" target="_blank">
+          <img src="https://img.shields.io/badge/Explore%20Code%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3: AI Chatbot -->
+    <td width="50%" valign="top">
+      <h3>💬 Context-Aware RAG Assistant</h3>
+      <p>
+        <img src="https://img.shields.io/badge/RAG%20Assistant-Vector%20Search-F59E0B?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-Deployed-10B981?style=flat-square" alt="Status" />
+      </p>
+      <p>
+        Enterprise support chatbot powered by dense vector embeddings, hybrid semantic retrieval, and contextual reranking to eliminate hallucinations.
+      </p>
+      <p>
+        <b>Tech Stack:</b> <code>TypeScript</code> <code>Vector DB</code> <code>FastAPI</code> <code>OpenAI</code>
+      </p>
+      <p>
+        <a href="https://github.com/abunayem04" target="_blank">
+          <img src="https://img.shields.io/badge/Explore%20Code%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <!-- Project 4: Automation -->
+    <td width="50%" valign="top">
+      <h3>⚙️ Data & Automation Pipeline</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Automation-Distributed%20Workers-EC4899?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-Operational-10B981?style=flat-square" alt="Status" />
+      </p>
+      <p>
+        Automated event-driven pipeline executing distributed background jobs, web scraping, data enrichment, and cross-platform synchronization.
+      </p>
+      <p>
+        <b>Tech Stack:</b> <code>Node.js</code> <code>Python</code> <code>Cron Workers</code> <code>REST APIs</code>
+      </p>
+      <p>
+        <a href="https://github.com/abunayem04" target="_blank">
+          <img src="https://img.shields.io/badge/Explore%20Code%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 5: Web App -->
+    <td width="50%" valign="top">
+      <h3>🍽️ NX Restaurant Platform</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Web%20App-Interactive%20Portal-06B6D4?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Repo-Public-10B981?style=flat-square" alt="Status" />
+      </p>
+      <p>
+        Modern dining web application featuring dynamic real-time menu categorization, fluid interactive animations, and responsive booking interfaces.
+      </p>
+      <p>
+        <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>UI/UX Design</code>
+      </p>
+      <p>
+        <a href="https://github.com/abunayem04/NX-resturent" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <!-- Project 6: Developer Tool -->
+    <td width="50%" valign="top">
+      <h3>🛠️ Pixel Programmers Hub</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Dev%20Community-Learning%20Portal-6366F1?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Repo-Public-10B981?style=flat-square" alt="Status" />
+      </p>
+      <p>
+        Collaborative learning and resource hub built for junior developers and students to share curated roadmaps, cheat sheets, and coding exercises.
+      </p>
+      <p>
+        <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Responsive</code>
+      </p>
+      <p>
+        <a href="https://github.com/abunayem04/pixel-programmers-" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
