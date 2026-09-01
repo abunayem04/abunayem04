@@ -247,12 +247,20 @@ graph LR
 
 <div align="center">
 
+  <!-- Master Quote & CTA Typography -->
+  <h1>❝ <em>Build beyond the obvious.</em> ❞</h1>
+  
+  <h3><strong>Let's build something extraordinary together.</strong></h3>
+
+  <p align="center">
+    <em>Have an ambitious project, startup concept, or intelligent AI product in mind? Let's talk.</em>
+  </p>
+
+  <p align="center">
+    <code>● STATUS: AVAILABLE FOR EXCITING PROJECTS</code>
+  </p>
+
   <br />
-
-  <!-- Professional Executive Quote Card -->
-  <img src="./assets/footer-cta.svg" width="100%" alt="Executive Quote - Abu Nayem" />
-
-  <br /><br />
 
   <!-- Symmetrical 3x2 Grid Contact Badges -->
   <table border="0" cellspacing="8" cellpadding="0">
