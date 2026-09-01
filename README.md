@@ -14,24 +14,37 @@
     <strong>Building AI × Web × Automation</strong>
   </p>
 
-  <p align="center">
-    <a href="https://abunayem.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-abunayem.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Abu%20Nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:abunayem.programmer@gmail.com">
-      <img src="https://img.shields.io/badge/Email-abunayem.programmer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://wa.me/8801764467266" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-  </p>
+  <!-- Navigation & Action Badges Table -->
+  <table border="0" cellspacing="6" cellpadding="0">
+    <tr>
+      <td align="center">
+        <a href="https://abunayem.com" target="_blank">
+          <img src="https://img.shields.io/badge/PORTFOLIO-abunayem.com-090D16?style=for-the-badge&logo=google-chrome&logoColor=38BDF8&labelColor=131A2B" alt="Portfolio" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
+          <img src="https://img.shields.io/badge/LINKEDIN-Abu%20Nayem-090D16?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=131A2B" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:abunayem.programmer@gmail.com">
+          <img src="https://img.shields.io/badge/EMAIL-Direct%20Inbox-090D16?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=131A2B" alt="Email" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/8801764467266" target="_blank">
+          <img src="https://img.shields.io/badge/WHATSAPP-Chat%20Now-090D16?style=for-the-badge&logo=whatsapp&logoColor=34D399&labelColor=131A2B" alt="WhatsApp" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br />
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abunayem04&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Exciting%20Projects-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=abunayem04&style=for-the-badge&color=090D16&labelColor=131A2B" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20PROJECTS-064E3B?style=for-the-badge&logo=radar&logoColor=34D399&labelColor=131A2B" alt="Status" />
   </p>
 
 </div>
@@ -246,34 +259,34 @@ graph LR
     <tr>
       <td align="center">
         <a href="https://abunayem.com" target="_blank">
-          <img src="https://img.shields.io/badge/Official%20Website-abunayem.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+          <img src="https://img.shields.io/badge/WEBSITE-abunayem.com-090D16?style=for-the-badge&logo=google-chrome&logoColor=38BDF8&labelColor=131A2B" alt="Website" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Abu%20Nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LINKEDIN-Abu%20Nayem-090D16?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=131A2B" alt="LinkedIn" />
         </a>
       </td>
       <td align="center">
         <a href="mailto:abunayem.programmer@gmail.com">
-          <img src="https://img.shields.io/badge/Business%20Email-abunayem.programmer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          <img src="https://img.shields.io/badge/EMAIL-abunayem.programmer-090D16?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=131A2B" alt="Email" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://wa.me/8801764467266" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-Direct%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+          <img src="https://img.shields.io/badge/WHATSAPP-Chat%20Direct-090D16?style=for-the-badge&logo=whatsapp&logoColor=34D399&labelColor=131A2B" alt="WhatsApp" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.facebook.com/abunayem04" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-abunayem04-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+          <img src="https://img.shields.io/badge/FACEBOOK-abunayem04-090D16?style=for-the-badge&logo=facebook&logoColor=818CF8&labelColor=131A2B" alt="Facebook" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.instagram.com/abu_nayeeem/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-@abu__nayeeem-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+          <img src="https://img.shields.io/badge/INSTAGRAM-@abu__nayeeem-090D16?style=for-the-badge&logo=instagram&logoColor=F472B6&labelColor=131A2B" alt="Instagram" />
         </a>
       </td>
     </tr>
@@ -283,13 +296,13 @@ graph LR
 
   <!-- Return to Top Modern Pill Button -->
   <a href="#nayem">
-    <img src="https://img.shields.io/badge/▲-Return%20To%20Top-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Return to Top" />
+    <img src="https://img.shields.io/badge/▲-RETURN%20TO%20TOP-090D16?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=131A2B" alt="Return to Top" />
   </a>
 
   <br /><br />
 
-  <!-- Animated Multi-Color Wave with Text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20,30&height=140&section=footer&text=NAYEM%20%E2%80%A2%20AI%20%C3%97%20WEB%20%C3%97%20AUTOMATION&fontSize=15&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="Footer Wave" />
+  <!-- Animated Multi-Color Wave Matching Cover Theme -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,11,20&height=130&section=footer&text=NAYEM%20%E2%80%A2%20AI%20%C3%97%20WEB%20%C3%97%20AUTOMATION&fontSize=15&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="Footer Wave" />
 
   <p align="center"><i>⭐ Code. Create. Automate. Elevate. • Khulna, Bangladesh ⭐</i></p>
 
