@@ -7,7 +7,7 @@
 
   <br /><br />
 
-  # NAYEM
+  # ABU NAYEM
   ### **AI-Powered Full-Stack Developer**
   
   <p align="center">
