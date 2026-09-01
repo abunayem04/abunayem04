@@ -1,0 +1,90 @@
+<svg width="850" height="150" viewBox="0 0 850 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Glassmorphic Gradient Background -->
+    <linearGradient id="glassBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121826" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#080C14" stop-opacity="0.95" />
+    </linearGradient>
+
+    <!-- Frosted Glass Border Highlight -->
+    <linearGradient id="glassBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.8" />
+      <stop offset="30%" stop-color="#818CF8" stop-opacity="0.6" />
+      <stop offset="70%" stop-color="#C084FC" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.1" />
+    </linearGradient>
+
+    <!-- Typography Gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E2E8F0" />
+    </linearGradient>
+
+    <filter id="softGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Glass Card Background -->
+  <rect x="2" y="2" width="846" height="146" rx="14" fill="url(#glassBg)" />
+  <rect x="2" y="2" width="846" height="146" rx="14" stroke="url(#glassBorder)" stroke-width="1.5" />
+
+  <!-- Left: Name & Title -->
+  <g transform="translate(36, 26)">
+    <!-- Pill Tag -->
+    <rect width="210" height="24" rx="12" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <circle cx="12" cy="12" r="3.5" fill="#38BDF8" />
+    <text x="24" y="16" fill="#7DD3FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">
+      FRONTEND &amp; UI ENGINEER
+    </text>
+
+    <!-- Developer Name -->
+    <text x="0" y="62" fill="url(#nameGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">
+      Abu Nayem
+    </text>
+
+    <!-- Subtitle -->
+    <text x="0" y="88" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400">
+      Specializing in React, Next.js &amp; Modern UI Architecture • Crafting pixel-perfect web products
+    </text>
+  </g>
+
+  <!-- Right: Status & Meta Pills -->
+  <g transform="translate(580, 26)">
+    <!-- Live Status -->
+    <rect width="234" height="28" rx="14" fill="#064E3B" fill-opacity="0.5" stroke="#059669" stroke-width="1" />
+    <circle cx="16" cy="14" r="4.5" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="16" cy="14" r="7.5" fill="none" stroke="#10B981" stroke-width="1" opacity="0.5">
+      <animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="32" y="18" fill="#6EE7B7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">
+      OPEN TO COLLABORATION
+    </text>
+
+    <!-- Meta Details Pill -->
+    <g transform="translate(0, 42)">
+      <rect width="234" height="56" rx="10" fill="#0B111E" stroke="#1E293B" stroke-width="1" />
+      
+      <text x="14" y="24" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11.5" font-weight="500">
+        🏢 <tspan fill="#CBD5E1">Etarnity Global</tspan>
+      </text>
+
+      <text x="125" y="24" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11.5" font-weight="500">
+        📍 <tspan fill="#CBD5E1">Khulna, BD</tspan>
+      </text>
+
+      <line x1="14" y1="34" x2="220" y2="34" stroke="#1E293B" stroke-width="1" />
+
+      <text x="14" y="47" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11.5" font-weight="500">
+        🌐 <tspan fill="#38BDF8" font-weight="600">abunayem.com</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

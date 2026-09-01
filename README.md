@@ -1,57 +1,62 @@
 <div align="center">
 
-  <!-- Next.js / React Ultra-Premium Hero Banner -->
+  <!-- 3D Developer Illustrated Hero Banner -->
   <a href="https://abunayem.com" target="_blank">
-    <img src="./assets/hero-banner.svg" width="100%" alt="Abu Nayem - React &amp; Next.js Frontend Engineer" />
+    <img src="./assets/banner-3d.jpg" width="100%" style="border-radius: 14px;" alt="Abu Nayem - 3D Developer Workspace" />
   </a>
 
   <br /><br />
 
-  <!-- Next.js Docs Style Navigation -->
+  <!-- Glassmorphic Executive Header -->
+  <img src="./assets/glass-header.svg" width="100%" alt="Abu Nayem - Frontend &amp; UI Engineer" />
+
+  <br /><br />
+
+  <!-- Navigation Matrix -->
   <p align="center">
-    <code><a href="#-overview">Overview</a></code> •
-    <code><a href="#-tech-ecosystem">Tech Ecosystem</a></code> •
-    <code><a href="#-production-deployments">Deployments</a></code> •
-    <code><a href="#-telemetry--activity">Telemetry</a></code> •
-    <code><a href="#-architecture-principles">Principles</a></code> •
-    <code><a href="#-connect">Connect</a></code>
+    <a href="#-about-me"><b>About</b></a> •
+    <a href="#-tech-ecosystem"><b>Ecosystem</b></a> •
+    <a href="#-featured-projects"><b>Projects</b></a> •
+    <a href="#-github-telemetry"><b>Telemetry</b></a> •
+    <a href="#-engineering-principles"><b>Principles</b></a> •
+    <a href="#-connect"><b>Connect</b></a>
   </p>
 
-  <!-- Vercel Style Live Status & Badges -->
+  <!-- Quick Action Badges -->
   <p align="center">
     <a href="https://abunayem.com" target="_blank">
-      <img src="https://img.shields.io/badge/Production-abunayem.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Production Website" />
+      <img src="https://img.shields.io/badge/Portfolio-abunayem.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Abu%20Nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://wa.me/8801764467266" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-Direct%20Line-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-Direct%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="mailto:mdnayem1100khan@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abunayem04&style=flat-square&color=0070F3&label=TELEMETRY+VIEWS" alt="Telemetry Views" />
-    <img src="https://img.shields.io/badge/Stack-React%2019%20%7C%20Next.js%2015-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Next.js and React" />
-    <img src="https://img.shields.io/badge/Status-Ready%20to%20Deploy-10B981?style=flat-square" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=abunayem04&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20TypeScript-8B5CF6?style=flat-square&logo=react&logoColor=white" alt="Tech Stack" />
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square" alt="Status" />
   </p>
 
 </div>
 
 ---
 
-### ⚛️ Overview
+### 👨‍💻 About Me
 
 ```tsx
-// app/profile/page.tsx
-import { Developer, Stack, Status } from '@/ecosystem';
+// app/engineer/page.tsx
+import { Developer, Stack, Organization } from '@/ecosystem';
 
 export const metadata = {
   title: 'Abu Nayem — Frontend & UI Engineer',
-  description: 'Building modern, performant web applications with React, Next.js & TypeScript',
+  description: 'Specializing in React, Next.js, TypeScript & Modern UI Architecture',
 };
 
 export default async function Profile() {
@@ -60,35 +65,41 @@ export default async function Profile() {
       name="Abu Nayem"
       role="Frontend & UI Engineer"
       company="Etarnity Global"
-      location="Khulna, Bangladesh"
-      specialization={['React.js', 'Next.js', 'TypeScript', 'Tailwind CSS']}
-      availability="Open to High-Impact Opportunities & Freelance"
-      website="https://abunayem.com"
+      location="Khulna, Bangladesh 🇧🇩"
+      coreStack={['Next.js 15', 'React 19', 'TypeScript', 'Tailwind CSS']}
+      status="Open to High-Impact Opportunities & Freelance"
+      portfolio="https://abunayem.com"
     />
   );
 }
 ```
 
-I am a **Frontend & UI Engineer** at **Etarnity Global** in Khulna, Bangladesh. My passion lies in crafting high-performance, accessible, and pixel-perfect web applications using **React, Next.js, TypeScript, and modern CSS architectures**.
+I am a **Frontend & UI Engineer** based in **Khulna, Bangladesh**, currently contributing to frontend architecture and product development at **Etarnity Global**.
 
-I treat frontend engineering as a craft—focusing on sub-second render times, modular component design, fluid micro-interactions, and pristine responsive layouts across all screen sizes.
+My focus centers on the **React and Next.js ecosystem**, bridging design and code to create web experiences that are not just visually captivating, but also blazingly fast, accessible, and maintainable.
+
+#### 📌 At a Glance
+- 💼 **Current Role**: Frontend Developer at **Etarnity Global**
+- 🌐 **Personal Website**: [abunayem.com](https://abunayem.com)
+- 📍 **Location**: Khulna, Bangladesh
+- 🎯 **Specialization**: React.js, Next.js, Modern JavaScript (ES6+), TypeScript, Tailwind CSS
+- 💡 **Engineering Philosophy**: Sub-second load times, component reusability, and accessible UX
+- 🤝 **Collaborations**: Open to freelance contracts, open-source projects, and full-time roles
 
 ---
 
 ### 🛠️ Tech Ecosystem
 
-A structured overview of the frameworks, libraries, and tools I use to build scalable web products:
-
 <div align="center">
 
-#### ▲ Core Frameworks & Web Technologies
+#### 💻 Frontend Architecture & Core Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,sass,bootstrap&perline=9&theme=dark" alt="Core Technologies" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap&perline=9&theme=dark" alt="Frontend Technologies" />
   </a>
 </p>
 
-#### ⚙️ Runtime, Backend & Engineering Tooling
+#### ⚙️ Backend, AI & Development Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,git,github,vscode,figma,postman,vite&perline=9&theme=dark" alt="Backend & Tools" />
@@ -99,46 +110,42 @@ A structured overview of the frameworks, libraries, and tools I use to build sca
 
 <br />
 
-| Layer | Technologies & Systems | Focus Area |
+| Domain | Technologies & Systems | Focus Area |
 | :--- | :--- | :--- |
 | **01 // Core Frontend** | `React.js`, `Next.js 15 (App Router)`, `TypeScript`, `JavaScript (ES6+)` | Client & Server Components, State Management |
-| **02 // UI & Styling** | `Tailwind CSS`, `Sass/SCSS`, `CSS Modules`, `Responsive Design` | Design Systems, Fluid Layouts, 60fps Micro-interactions |
-| **03 // Backend & API** | `Node.js`, `Express.js`, `RESTful APIs`, `Fetch / Axios`, `JSON Web Tokens` | API Integrations, Serverless Functions, Data Hydration |
-| **04 // Developer Tooling**| `Git`, `GitHub`, `VS Code`, `Vite`, `Postman`, `npm / yarn / pnpm` | CI/CD Workflows, Version Control, Code Quality |
-| **05 // Prototyping** | `Figma`, `UI Wireframing`, `Component Tokens`, `Accessibility (a11y)` | Design-to-Code Parity, UX Research |
+| **02 // UI & Styling** | `Tailwind CSS`, `Sass/SCSS`, `Bootstrap 5`, `CSS Modules`, `Responsive Design` | Design Systems, Fluid Layouts, 60fps Micro-interactions |
+| **03 // Backend & API** | `Node.js`, `Express.js`, `RESTful APIs`, `Fetch / Axios`, `JWT` | API Integrations, Data Hydration, Authentication |
+| **04 // Developer Tooling**| `Git`, `GitHub`, `VS Code`, `Vite`, `Postman`, `npm / yarn / pnpm` | Version Control, CI/CD Workflows, Code Optimization |
+| **05 // Prototyping & UX** | `Figma`, `Wireframing`, `Design Tokens`, `Accessibility (a11y)` | Design-to-Code Parity, Responsive UX Research |
 
 ---
 
-### 🚀 Production Deployments
+### 🚀 Featured Projects
 
-Curated projects showcasing end-to-end frontend execution, responsive architectures, and clean code:
-
-| Deployment | Architecture & Features | Stack | Access |
+| Project | Architecture & Description | Tech Stack | Status & Access |
 | :--- | :--- | :--- | :--- |
-| **▲ [Pixel Programmers](https://github.com/abunayem04/pixel-programmers-)** <br> `● Production Ready` | Collaborative web learning platform engineered for developers to master programming concepts and share resources. | `HTML5` `CSS3` `JavaScript` `Responsive` | [View Source ➔](https://github.com/abunayem04/pixel-programmers-) |
-| **▲ [NX Restaurant](https://github.com/abunayem04/NX-resturent)** <br> `● Production Ready` | Modern dining & culinary web portal featuring dynamic menu filtering, rich aesthetic UI, and fast reservation flows. | `HTML5` `CSS3` `UI/UX Design` | [View Source ➔](https://github.com/abunayem04/NX-resturent) |
-| **▲ [Portfolio Nexus](https://github.com/abunayem04/first-portfolio-)** <br> `● Production Ready` | Official engineering portfolio showcasing design system prototypes, creative UI components, and real-world experiments. | `Next.js` `Tailwind` `React` `Vercel` | [View Source ➔](https://github.com/abunayem04/first-portfolio-) • [Live Demo 🌐](https://abunayem.com) |
-| **▲ [Frontend Labs](https://github.com/abunayem04/Practice-work)** <br> `● In Development` | R&D sandbox containing experimental layout architectures, micro-components, and modern JavaScript design patterns. | `Component Lab` `DOM API` `CSS3` | [View Source ➔](https://github.com/abunayem04/Practice-work) |
+| **[Pixel Programmers](https://github.com/abunayem04/pixel-programmers-)** | Collaborative web learning portal engineered for developers and students to share knowledge and master web technologies. | `HTML5` `CSS3` `JavaScript` `Responsive` | [Source Code ➔](https://github.com/abunayem04/pixel-programmers-) |
+| **[NX Restaurant](https://github.com/abunayem04/NX-resturent)** | Modern dining & culinary web application featuring interactive dynamic menu filtering, rich aesthetic UI, and fast reservation flows. | `HTML5` `CSS3` `UI/UX Design` | [Source Code ➔](https://github.com/abunayem04/NX-resturent) |
+| **[Portfolio Nexus](https://github.com/abunayem04/first-portfolio-)** | Official personal web portfolio demonstrating design system prototypes, creative UI components, and real-world client experiments. | `Next.js` `Tailwind` `React` `Modern Web` | [Source Code ➔](https://github.com/abunayem04/first-portfolio-) • [Live Demo 🌐](https://abunayem.com) |
+| **[Frontend Labs](https://github.com/abunayem04/Practice-work)** | Component R&D sandbox containing experimental layout architectures, micro-interactions, and modern JavaScript design patterns. | `Component Lab` `DOM API` `CSS3` | [Source Code ➔](https://github.com/abunayem04/Practice-work) |
 
 ---
 
-### 📊 Telemetry & Activity
-
-Real-time telemetry measuring consistency, code frequency, and top programming languages:
+### 📊 GitHub Telemetry & Activity
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abunayem04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=61DAFB&icon_color=0070F3&text_color=A1A1AA" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abunayem04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" width="100%" alt="Abu Nayem's GitHub Stats" />
       </td>
       <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abunayem04&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=61DAFB&text_color=A1A1AA" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abunayem04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="100%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <img src="https://streak-stats.demolab.com/?user=abunayem04&theme=tokyonight&hide_border=true&background=000000&ring=0070F3&fire=61DAFB&currStreakLabel=61DAFB" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=abunayem04&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -156,19 +163,17 @@ Real-time telemetry measuring consistency, code frequency, and top programming l
 
 ---
 
-### 💡 Architecture Principles
+### 💡 Engineering Principles
 
-How I engineer frontend solutions:
-
-- **⚡ Core Web Vitals First**: Sub-second Largest Contentful Paint (LCP), minimal Cumulative Layout Shift (CLS), and aggressive asset optimization.
-- **📱 Responsive & Fluid**: Mobile-first design paradigms ensuring smooth, pixel-perfect scaling across all device viewports.
-- **♿ Inclusive & Accessible (a11y)**: Semantic HTML markup, keyboard navigable workflows, and strict contrast ratios.
-- **🧩 Component-Driven Development**: Modular, reusable, and self-contained components following clean DRY principles.
-- **🔮 Next-Gen Workflow**: Leveraging modern AI agentic developer tooling to accelerate velocity without compromising code quality.
+- **⚡ Performance First**: Sub-second Largest Contentful Paint (LCP), minimal bundle sizes, and aggressive asset caching.
+- **📱 Fluid & Responsive**: Mobile-first design paradigms ensuring smooth, pixel-perfect scaling across all device viewports.
+- **♿ Inclusive & Accessible (a11y)**: Semantic HTML markup, keyboard-navigable workflows, and strict WCAG contrast compliance.
+- **🧩 Component-Driven Architecture**: Modular, reusable, and self-contained components following clean DRY principles.
+- **🔮 Modern Velocity**: Leveraging AI-augmented developer tooling to accelerate execution while enforcing strict code quality.
 
 ---
 
-### 💬 Daily Dev Reflection
+### 💬 Thought of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
@@ -176,28 +181,28 @@ How I engineer frontend solutions:
 
 ---
 
-### 📬 Connect
+### 📬 Connect & Collaborate
 
-Looking to collaborate on a high-impact web project, discuss frontend architecture, or hire for engineering roles? Let's connect:
+Looking to collaborate on a web project, discuss frontend architecture, or hire for engineering roles? Let's connect:
 
 <div align="center">
   <a href="https://abunayem.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-abunayem.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Official%20Website-abunayem.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abu%20Nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/8801764467266" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.facebook.com/abunayem04" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-abunayem04-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/abu_nayeeem/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@abu__nayeeem-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:mdnayem1100khan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Direct%20Inbox-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -207,5 +212,5 @@ Looking to collaborate on a high-impact web project, discuss frontend architectu
   <a href="#abunayem04"><b>▲ Return to Top</b></a>
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <p align="center"><i>▲ Built with React &amp; Next.js Design Principles • Khulna, Bangladesh</i></p>
+  <p align="center"><i>⭐ Star this repository if you find it inspirational! ⭐</i></p>
 </div>
