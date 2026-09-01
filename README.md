@@ -18,11 +18,11 @@
     <a href="https://abunayem.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-abunayem.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/ai-nayem/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-ai--nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Abu%20Nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:hello@abunayem.com">
-      <img src="https://img.shields.io/badge/Email-hello%40abunayem.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:abunayem.programmer@gmail.com">
+      <img src="https://img.shields.io/badge/Email-abunayem.programmer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://wa.me/8801764467266" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-Chat%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -250,13 +250,13 @@ graph LR
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/ai-nayem/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-ai--nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Abu%20Nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </td>
       <td align="center">
-        <a href="mailto:hello@abunayem.com">
-          <img src="https://img.shields.io/badge/Business%20Email-hello%40abunayem.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        <a href="mailto:abunayem.programmer@gmail.com">
+          <img src="https://img.shields.io/badge/Business%20Email-abunayem.programmer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
       </td>
     </tr>
