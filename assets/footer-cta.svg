@@ -1,86 +1,72 @@
-<svg width="850" height="210" viewBox="0 0 850 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="180" viewBox="0 0 850 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="footerCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0E131F" />
-      <stop offset="50%" stop-color="#080C14" />
-      <stop offset="100%" stop-color="#04060A" />
+    <!-- Card Background -->
+    <linearGradient id="quoteBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E1422" />
+      <stop offset="100%" stop-color="#060911" />
     </linearGradient>
 
-    <!-- Ambient Glow Filter -->
-    <filter id="ambientBlur" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="20" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
-    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.25" />
-      <stop offset="50%" stop-color="#0070F3" stop-opacity="0.12" />
+    <!-- Subtle Ambient Spotlight Glow -->
+    <radialGradient id="quoteSpotlight" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.15" />
+      <stop offset="60%" stop-color="#818CF8" stop-opacity="0.05" />
       <stop offset="100%" stop-color="#000000" stop-opacity="0" />
     </radialGradient>
 
-    <!-- Subtle Dot Pattern -->
-    <pattern id="footerDots" width="18" height="18" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#FFFFFF" fill-opacity="0.04" />
-    </pattern>
-
-    <!-- Text Gradient -->
-    <linearGradient id="quoteGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" />
-      <stop offset="50%" stop-color="#A855F7" />
-      <stop offset="100%" stop-color="#EC4899" />
+    <!-- Subtle Modern Border -->
+    <linearGradient id="borderStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B" />
+      <stop offset="30%" stop-color="#38BDF8" stop-opacity="0.6" />
+      <stop offset="70%" stop-color="#818CF8" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1E293B" />
     </linearGradient>
+
+    <!-- Quote Gradient Text -->
+    <linearGradient id="quoteTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="50%" stop-color="#F1F5F9" />
+      <stop offset="100%" stop-color="#CBD5E1" />
+    </linearGradient>
+
+    <!-- Subtle Dot Grid -->
+    <pattern id="cardDots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#FFFFFF" fill-opacity="0.03" />
+    </pattern>
   </defs>
 
-  <!-- Ambient Light Spot -->
-  <circle cx="425" cy="105" r="280" fill="url(#centerGlow)" />
-
   <!-- Base Card Frame -->
-  <rect x="2" y="2" width="846" height="206" rx="16" fill="url(#footerCardBg)" />
-  <rect x="2" y="2" width="846" height="206" rx="16" fill="url(#footerDots)" />
-  
-  <!-- Animated Border Glow -->
-  <rect x="2" y="2" width="846" height="206" rx="16" stroke="#8B5CF6" stroke-width="1.5" stroke-opacity="0.7">
-    <animate attributeName="stroke" values="#38BDF8;#A855F7;#EC4899;#38BDF8" dur="6s" repeatCount="indefinite" />
-  </rect>
+  <rect x="2" y="2" width="846" height="176" rx="14" fill="url(#quoteBg)" />
+  <rect x="2" y="2" width="846" height="176" rx="14" fill="url(#quoteSpotlight)" />
+  <rect x="2" y="2" width="846" height="176" rx="14" fill="url(#cardDots)" />
+  <rect x="2" y="2" width="846" height="176" rx="14" stroke="url(#borderStroke)" stroke-width="1.2" />
 
-  <!-- Stylized Decorative Quote Mark -->
-  <text x="425" y="48" text-anchor="middle" fill="#8B5CF6" font-family="'Georgia', serif" font-size="42" font-weight="bold" opacity="0.4">
+  <!-- Large Stylized Watermark Quote Mark -->
+  <text x="65" y="70" font-family="'Georgia', serif" font-size="70" font-weight="bold" fill="#38BDF8" opacity="0.18">
     “
   </text>
-
-  <!-- Main Quote -->
-  <text x="425" y="76" text-anchor="middle" fill="url(#quoteGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="800" letter-spacing="1">
-    Build beyond the obvious.
+  <text x="785" y="145" text-anchor="end" font-family="'Georgia', serif" font-size="70" font-weight="bold" fill="#818CF8" opacity="0.18">
+    ”
   </text>
 
-  <!-- Subtitle Heading -->
-  <text x="425" y="108" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" letter-spacing="-0.3">
-    Let's build something extraordinary together.
+  <!-- The Quote Headline -->
+  <text x="425" y="66" text-anchor="middle" fill="url(#quoteTextGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Georgia', 'Playfair Display', serif" font-size="25" font-style="italic" font-weight="700" letter-spacing="0.5">
+    “Build beyond the obvious.”
   </text>
 
-  <!-- Description Text -->
-  <text x="425" y="132" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400">
-    Have an ambitious project, startup concept, or intelligent AI product in mind? Let's talk.
+  <!-- Supporting Philosophical Thought -->
+  <text x="425" y="96" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400" letter-spacing="0.2">
+    Engineering intelligent digital products that bridge human creativity and machine precision.
   </text>
 
-  <!-- Divider Line -->
-  <line x1="180" y1="152" x2="670" y2="152" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+  <!-- Elegant Centered Accent Divider Line -->
+  <line x1="340" y1="116" x2="510" y2="116" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" />
 
-  <!-- Live Status Beacon & Location -->
-  <g transform="translate(245, 168)">
-    <circle cx="10" cy="10" r="4.5" fill="#10B981">
-      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="10" cy="10" r="7.5" fill="none" stroke="#10B981" stroke-width="1" opacity="0.5">
-      <animate attributeName="r" values="4;11;4" dur="1.8s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.7;0;0.7" dur="1.8s" repeatCount="indefinite" />
-    </circle>
-    <text x="24" y="14" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">
-      STATUS: AVAILABLE FOR EXCITING PROJECTS
-    </text>
-  </g>
+  <!-- Attribution & Signature -->
+  <text x="425" y="138" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">
+    — ABU NAYEM
+  </text>
+
+  <text x="425" y="156" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.4">
+    AI-Powered Full-Stack Developer • Etarnity Global
+  </text>
 </svg>

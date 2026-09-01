@@ -236,8 +236,8 @@ graph LR
 
   <br />
 
-  <!-- Animated Master Footer CTA Card -->
-  <img src="./assets/footer-cta.svg" width="100%" alt="Build Beyond the Obvious - AI Nayem" />
+  <!-- Professional Executive Quote Card -->
+  <img src="./assets/footer-cta.svg" width="100%" alt="Executive Quote - Abu Nayem" />
 
   <br /><br />
 
