@@ -1,25 +1,20 @@
 <div align="center">
 
-  <!-- 3D Developer Illustrated Hero Banner -->
+  <!-- Official Brand Cover Photo -->
   <a href="https://abunayem.com" target="_blank">
-    <img src="./assets/banner-3d.jpg" width="100%" style="border-radius: 14px;" alt="Abu Nayem - 3D Developer Workspace" />
+    <img src="./assets/coverphoto.png" width="100%" style="border-radius: 12px;" alt="AI Nayem - AI-Powered Full-Stack Developer" />
   </a>
-
-  <br /><br />
-
-  <!-- Glassmorphic Executive Header -->
-  <img src="./assets/glass-header.svg" width="100%" alt="Abu Nayem - Frontend &amp; UI Engineer" />
 
   <br /><br />
 
   <!-- Navigation Matrix -->
   <p align="center">
     <a href="#-about-me"><b>About</b></a> •
-    <a href="#-tech-ecosystem"><b>Ecosystem</b></a> •
+    <a href="#-core-pillars"><b>Pillars</b></a> •
+    <a href="#-tech-ecosystem"><b>Tech Stack</b></a> •
     <a href="#-featured-projects"><b>Projects</b></a> •
     <a href="#-github-telemetry"><b>Telemetry</b></a> •
-    <a href="#-engineering-principles"><b>Principles</b></a> •
-    <a href="#-connect"><b>Connect</b></a>
+    <a href="#-connect--collaborate"><b>Connect</b></a>
   </p>
 
   <!-- Quick Action Badges -->
@@ -27,21 +22,21 @@
     <a href="https://abunayem.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-abunayem.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Abu%20Nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/ai-nayem/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-ai--nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://wa.me/8801764467266" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-Direct%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="mailto:mdnayem1100khan@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:hello@abunayem.com">
+      <img src="https://img.shields.io/badge/Email-hello%40abunayem.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abunayem04&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20TypeScript-8B5CF6?style=flat-square&logo=react&logoColor=white" alt="Tech Stack" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Engineering-8B5CF6?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Exciting%20Projects-brightgreen?style=flat-square" alt="Status" />
   </p>
 
 </div>
@@ -52,39 +47,49 @@
 
 ```tsx
 // app/engineer/page.tsx
-import { Developer, Stack, Organization } from '@/ecosystem';
+import { Developer, Stack, Capabilities } from '@/ecosystem';
 
 export const metadata = {
-  title: 'Abu Nayem — Frontend & UI Engineer',
-  description: 'Specializing in React, Next.js, TypeScript & Modern UI Architecture',
+  title: 'AI Nayem — AI-Powered Full-Stack Developer',
+  description: 'Building intelligent digital products that solve real-world problems',
 };
 
 export default async function Profile() {
   return (
     <Developer
-      name="Abu Nayem"
-      role="Frontend & UI Engineer"
-      company="Etarnity Global"
+      brand="AI Nayem"
+      role="AI-Powered Full-Stack Developer"
+      motto="Code. Create. Automate. Elevate."
+      organization="Etarnity Global"
       location="Khulna, Bangladesh 🇧🇩"
-      coreStack={['Next.js 15', 'React 19', 'TypeScript', 'Tailwind CSS']}
-      status="Open to High-Impact Opportunities & Freelance"
-      portfolio="https://abunayem.com"
+      coreCompetencies={[
+        'Full-Stack Development',
+        'AI Engineering & Automation',
+        'Cloud Solutions',
+        'Problem Solver',
+      ]}
+      status="Available for exciting projects"
+      website="https://abunayem.com"
     />
   );
 }
 ```
 
-I am a **Frontend & UI Engineer** based in **Khulna, Bangladesh**, currently contributing to frontend architecture and product development at **Etarnity Global**.
+Hello! I am **Abu Nayem** (known as **AI Nayem**), an **AI-Powered Full-Stack Developer** based in **Khulna, Bangladesh**, currently engineering scalable web applications and solutions at **Etarnity Global**.
 
-My focus centers on the **React and Next.js ecosystem**, bridging design and code to create web experiences that are not just visually captivating, but also blazingly fast, accessible, and maintainable.
+My mission is to **build intelligent digital products that solve real-world problems**. I merge modern full-stack web architectures with AI engineering and automated workflows to deliver cutting-edge digital experiences.
 
-#### 📌 At a Glance
-- 💼 **Current Role**: Frontend Developer at **Etarnity Global**
-- 🌐 **Personal Website**: [abunayem.com](https://abunayem.com)
-- 📍 **Location**: Khulna, Bangladesh
-- 🎯 **Specialization**: React.js, Next.js, Modern JavaScript (ES6+), TypeScript, Tailwind CSS
-- 💡 **Engineering Philosophy**: Sub-second load times, component reusability, and accessible UX
-- 🤝 **Collaborations**: Open to freelance contracts, open-source projects, and full-time roles
+---
+
+### 🏛️ Core Pillars
+
+<div align="center">
+
+| `</>` Full-Stack Development | 🧠 AI Engineering & Automation | ☁️ Cloud Solutions | ⚡ Problem Solver |
+| :---: | :---: | :---: | :---: |
+| High-performance web apps built with modern React, Next.js, and robust APIs | Intelligent agentic workflows, automation scripts & LLM integrations | Scalable cloud deployments, serverless functions & CI/CD | Translating complex business challenges into elegant software |
+
+</div>
 
 ---
 
@@ -92,17 +97,17 @@ My focus centers on the **React and Next.js ecosystem**, bridging design and cod
 
 <div align="center">
 
-#### 💻 Frontend Architecture & Core Technologies
+#### 💻 Frontend & Core Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap&perline=9&theme=dark" alt="Frontend Technologies" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,sass,bootstrap&perline=9&theme=dark" alt="Frontend Technologies" />
   </a>
 </p>
 
-#### ⚙️ Backend, AI & Development Tools
+#### ⚙️ Backend, AI, Cloud & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,git,github,vscode,figma,postman,vite&perline=9&theme=dark" alt="Backend & Tools" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,git,github,vscode,figma,postman,vite&perline=10&theme=dark" alt="Backend and AI Tools" />
   </a>
 </p>
 
@@ -112,11 +117,12 @@ My focus centers on the **React and Next.js ecosystem**, bridging design and cod
 
 | Domain | Technologies & Systems | Focus Area |
 | :--- | :--- | :--- |
-| **01 // Core Frontend** | `React.js`, `Next.js 15 (App Router)`, `TypeScript`, `JavaScript (ES6+)` | Client & Server Components, State Management |
-| **02 // UI & Styling** | `Tailwind CSS`, `Sass/SCSS`, `Bootstrap 5`, `CSS Modules`, `Responsive Design` | Design Systems, Fluid Layouts, 60fps Micro-interactions |
-| **03 // Backend & API** | `Node.js`, `Express.js`, `RESTful APIs`, `Fetch / Axios`, `JWT` | API Integrations, Data Hydration, Authentication |
-| **04 // Developer Tooling**| `Git`, `GitHub`, `VS Code`, `Vite`, `Postman`, `npm / yarn / pnpm` | Version Control, CI/CD Workflows, Code Optimization |
-| **05 // Prototyping & UX** | `Figma`, `Wireframing`, `Design Tokens`, `Accessibility (a11y)` | Design-to-Code Parity, Responsive UX Research |
+| **01 // Full-Stack Core** | `React.js`, `Next.js 15 (App Router)`, `TypeScript`, `JavaScript (ES6+)` | Client & Server Components, State Architecture |
+| **02 // AI & Automation** | `Python`, `AI APIs & LLMs`, `Automated Pipelines`, `Prompt Engineering` | Intelligent Workflows, Automation, Data Processing |
+| **03 // UI Systems** | `Tailwind CSS`, `Sass/SCSS`, `Bootstrap 5`, `Responsive Design` | Fluid Layouts, 60fps Micro-interactions, Design Systems |
+| **04 // Backend & APIs** | `Node.js`, `Express.js`, `MongoDB`, `RESTful APIs`, `JWT` | API Engineering, Database Architecture, Authentication |
+| **05 // Developer Tools** | `Git`, `GitHub`, `VS Code`, `Vite`, `Postman`, `npm / yarn / pnpm` | Version Control, CI/CD Workflows, Code Optimization |
+| **06 // UI/UX Prototyping**| `Figma`, `Wireframing`, `Design Tokens`, `Accessibility (a11y)` | Design-to-Code Parity, Intuitive User Journeys |
 
 ---
 
@@ -163,13 +169,15 @@ My focus centers on the **React and Next.js ecosystem**, bridging design and cod
 
 ---
 
-### 💡 Engineering Principles
+### 💡 Engineering Principles & Philosophy
+
+> *"Code. Create. Automate. Elevate."*
 
 - **⚡ Performance First**: Sub-second Largest Contentful Paint (LCP), minimal bundle sizes, and aggressive asset caching.
 - **📱 Fluid & Responsive**: Mobile-first design paradigms ensuring smooth, pixel-perfect scaling across all device viewports.
 - **♿ Inclusive & Accessible (a11y)**: Semantic HTML markup, keyboard-navigable workflows, and strict WCAG contrast compliance.
 - **🧩 Component-Driven Architecture**: Modular, reusable, and self-contained components following clean DRY principles.
-- **🔮 Modern Velocity**: Leveraging AI-augmented developer tooling to accelerate execution while enforcing strict code quality.
+- **🔮 AI-Augmented Velocity**: Leveraging intelligent automation and AI tools to accelerate development velocity while enforcing rigorous software quality.
 
 ---
 
@@ -183,26 +191,26 @@ My focus centers on the **React and Next.js ecosystem**, bridging design and cod
 
 ### 📬 Connect & Collaborate
 
-Looking to collaborate on a web project, discuss frontend architecture, or hire for engineering roles? Let's connect:
+Looking to collaborate on an intelligent digital product, discuss full-stack architecture, or hire for engineering roles? Let's connect:
 
 <div align="center">
   <a href="https://abunayem.com" target="_blank">
     <img src="https://img.shields.io/badge/Official%20Website-abunayem.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abu%20Nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ai-nayem/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ai--nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/8801764467266" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:hello@abunayem.com">
+    <img src="https://img.shields.io/badge/Email-hello%40abunayem.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/abunayem04" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-abunayem04-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/abu_nayeeem/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@abu__nayeeem-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:mdnayem1100khan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct%20Inbox-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -212,5 +220,5 @@ Looking to collaborate on a web project, discuss frontend architecture, or hire 
   <a href="#abunayem04"><b>▲ Return to Top</b></a>
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <p align="center"><i>⭐ Star this repository if you find it inspirational! ⭐</i></p>
+  <p align="center"><i>⭐ Code. Create. Automate. Elevate. • Khulna, Bangladesh ⭐</i></p>
 </div>
