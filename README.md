@@ -86,31 +86,66 @@
 
 ### 🛠️ TECH STACK
 
-<div align="center">
-  <p><strong>Frontend | Backend | AI | Cloud | Tools</strong></p>
-
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,sass,bootstrap&perline=9&theme=dark" alt="Frontend Technologies" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,postgres,git,github,vscode,docker,postman&perline=10&theme=dark" alt="Backend, Cloud & Tools" />
-    </a>
-  </p>
-</div>
+> *Architecting scalable digital systems with modern full-stack technologies, cloud infrastructure & AI frameworks.*
 
 <br />
 
-| Domain | Core Technologies | Specialization |
-| :--- | :--- | :--- |
-| **Frontend** | `Next.js 15`, `React 19`, `TypeScript`, `JavaScript (ES6+)`, `Tailwind CSS`, `HTML5`, `CSS3` | App Router, Server Components, State Management, Responsive Design |
-| **Backend** | `Node.js`, `Express.js`, `Python`, `FastAPI`, `RESTful APIs`, `GraphQL` | Scalable Microservices, API Engineering, Authentication |
-| **AI & Automation** | `LLMs`, `RAG Systems`, `AI Agents`, `Tool Calling`, `Prompt Engineering`, `Python AI APIs` | Agentic Workflows, Structured Outputs, Context Augmentation |
-| **Cloud & Database** | `MongoDB`, `PostgreSQL`, `Firebase`, `Vercel`, `Supabase`, `Cloudflare` | Data Modeling, Serverless Deployments, Cloud Infrastructure |
-| **Tools & Workflow** | `Git`, `GitHub`, `Docker`, `VS Code`, `Postman`, `Figma`, `npm / yarn / pnpm` | CI/CD Pipelines, Agile Development, Code Optimization |
+<table border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <!-- Frontend -->
+    <td width="50%" valign="top">
+      <h4>🌐 Frontend & UI Architecture</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,sass,html,css&theme=dark" alt="Frontend Stack" />
+      </p>
+      <p>
+        <b>Core Frameworks:</b> Next.js 15 (App Router), React 19, TypeScript, ES6+<br />
+        <b>Design Systems:</b> Tailwind CSS, Modern CSS3, Fluid Responsive UI<br />
+        <b>Specialization:</b> Server Components (RSC), SSR Streaming, State Architecture
+      </p>
+    </td>
+    <!-- Backend -->
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & API Engineering</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mongodb&theme=dark" alt="Backend Stack" />
+      </p>
+      <p>
+        <b>Runtimes & Frameworks:</b> Node.js, Express.js, Python, REST APIs<br />
+        <b>Data Layers:</b> PostgreSQL, MongoDB, Schema Modeling, Connection Pooling<br />
+        <b>Specialization:</b> Microservice Patterns, Authentication, High-Throughput APIs
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- AI & Automation -->
+    <td width="50%" valign="top">
+      <h4>🤖 AI Engineering & Autonomous Agents</h4>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+      </p>
+      <p>
+        <b>Agentic Frameworks:</b> Tool Calling, Multi-Agent Orchestration, State Machines<br />
+        <b>Context Systems:</b> RAG Pipelines, Vector Search, Structured Outputs<br />
+        <b>Specialization:</b> Autonomous Goal Executors & Intelligent Software Assistants
+      </p>
+    </td>
+    <!-- Cloud & Tooling -->
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud, DevOps & Developer Workflow</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&theme=dark" alt="DevOps Stack" />
+      </p>
+      <p>
+        <b>Cloud & BaaS:</b> Vercel, Supabase, Firebase, Cloudflare Workers<br />
+        <b>DevOps & CI/CD:</b> Docker Containers, GitHub Actions Workflows, Git<br />
+        <b>Specialization:</b> Automated Deployments, Serverless Scaling, Developer Velocity
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
