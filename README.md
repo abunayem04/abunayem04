@@ -117,23 +117,32 @@
 ### 📊 DEVELOPER ACTIVITY
 
 <div align="center">
-  <p><strong>Contributions | Streak | PRs | Issues</strong></p>
 
-  <table border="0" cellspacing="0" cellpadding="0">
+  <p align="center">
+    <img src="https://img.shields.io/badge/CONTRIBUTIONS-800%2B%20TOTAL-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Contributions" />
+    <img src="https://img.shields.io/badge/COMMITS-ACTIVE%20DAILY-090D16?style=for-the-badge&logo=git&logoColor=34D399&labelColor=131A2B" alt="Commits" />
+    <img src="https://img.shields.io/badge/PULL%20REQUESTS-MERGED-090D16?style=for-the-badge&logo=gitkraken&logoColor=A78BFA&labelColor=131A2B" alt="PRs" />
+  </p>
+
+  <br />
+
+  <table border="0" cellspacing="8" cellpadding="0">
     <tr>
-      <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abunayem04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" width="100%" alt="Developer Stats" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=abunayem04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="195" alt="Developer Stats" />
       </td>
-      <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abunayem04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="100%" alt="Top Languages" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abunayem04&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&text_color=94A3B8" height="195" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <img src="https://streak-stats.demolab.com/?user=abunayem04&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="Developer Streak" />
+        <br />
+        <img src="https://streak-stats.demolab.com/?user=abunayem04&theme=tokyonight&hide_border=true&background=090D16&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="Developer Streak" />
       </td>
     </tr>
   </table>
+
 </div>
 
 ---
