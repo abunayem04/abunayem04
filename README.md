@@ -1,23 +1,19 @@
 <div align="center">
 
-  <!-- Official Brand Cover Photo -->
+  <!-- Official Brand Cover Banner -->
   <a href="https://abunayem.com" target="_blank">
-    <img src="./assets/coverphoto.png" width="100%" style="border-radius: 12px;" alt="AI Nayem - AI-Powered Full-Stack Developer" />
+    <img src="./assets/coverphoto.png" width="100%" style="border-radius: 14px;" alt="AI Nayem - AI-Powered Full-Stack Developer" />
   </a>
 
   <br /><br />
 
-  <!-- Navigation Matrix -->
+  # NAYEM
+  ### **AI-Powered Full-Stack Developer**
+  
   <p align="center">
-    <a href="#-about-me"><b>About</b></a> •
-    <a href="#-core-pillars"><b>Pillars</b></a> •
-    <a href="#-tech-ecosystem"><b>Tech Stack</b></a> •
-    <a href="#-featured-projects"><b>Projects</b></a> •
-    <a href="#-github-telemetry"><b>Telemetry</b></a> •
-    <a href="#-connect--collaborate"><b>Connect</b></a>
+    <strong>Building AI × Web × Automation</strong>
   </p>
 
-  <!-- Quick Action Badges -->
   <p align="center">
     <a href="https://abunayem.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-abunayem.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
@@ -25,17 +21,16 @@
     <a href="https://www.linkedin.com/in/ai-nayem/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-ai--nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://wa.me/8801764467266" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-Direct%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
     <a href="mailto:hello@abunayem.com">
       <img src="https://img.shields.io/badge/Email-hello%40abunayem.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://wa.me/8801764467266" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-Chat%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abunayem04&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Engineering-8B5CF6?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Status-Available%20for%20Exciting%20Projects-brightgreen?style=flat-square" alt="Status" />
   </p>
 
@@ -43,107 +38,78 @@
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ CURRENTLY BUILDING
 
-```tsx
-// app/engineer/page.tsx
-import { Developer, Stack, Capabilities } from '@/ecosystem';
+> **AI Agents • Full-Stack Apps • Automation**
 
-export const metadata = {
-  title: 'AI Nayem — AI-Powered Full-Stack Developer',
-  description: 'Building intelligent digital products that solve real-world problems',
-};
-
-export default async function Profile() {
-  return (
-    <Developer
-      brand="AI Nayem"
-      role="AI-Powered Full-Stack Developer"
-      motto="Code. Create. Automate. Elevate."
-      organization="Etarnity Global"
-      location="Khulna, Bangladesh 🇧🇩"
-      coreCompetencies={[
-        'Full-Stack Development',
-        'AI Engineering & Automation',
-        'Cloud Solutions',
-        'Problem Solver',
-      ]}
-      status="Available for exciting projects"
-      website="https://abunayem.com"
-    />
-  );
-}
+```text
+✦ Autonomous AI Agents      : Building tool-calling multi-agent workflows and autonomous task executors
+✦ Full-Stack Applications   : Developing performant, scalable web products with Next.js 15, React 19 & APIs
+✦ Workflow Automation       : Engineering intelligent automation pipelines to eliminate repetitive business work
 ```
 
-Hello! I am **Abu Nayem** (known as **AI Nayem**), an **AI-Powered Full-Stack Developer** based in **Khulna, Bangladesh**, currently engineering scalable web applications and solutions at **Etarnity Global**.
-
-My mission is to **build intelligent digital products that solve real-world problems**. I merge modern full-stack web architectures with AI engineering and automated workflows to deliver cutting-edge digital experiences.
-
----
-
-### 🏛️ Core Pillars
-
-<div align="center">
-
-| `</>` Full-Stack Development | 🧠 AI Engineering & Automation | ☁️ Cloud Solutions | ⚡ Problem Solver |
-| :---: | :---: | :---: | :---: |
-| High-performance web apps built with modern React, Next.js, and robust APIs | Intelligent agentic workflows, automation scripts & LLM integrations | Scalable cloud deployments, serverless functions & CI/CD | Translating complex business challenges into elegant software |
-
-</div>
+- 🏢 **Current Organization**: Engineering full-stack and modern web architectures at **Etarnity Global**.
+- 📍 **Location**: Based in **Khulna, Bangladesh 🇧🇩** (Collaborating globally).
+- 🎯 **Primary Focus**: Bridging generative AI with intuitive, production-grade web systems.
 
 ---
 
-### 🛠️ Tech Ecosystem
+### 🛠️ TECH STACK
 
 <div align="center">
+  <p><strong>Frontend | Backend | AI | Cloud | Tools</strong></p>
 
-#### 💻 Frontend & Core Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,sass,bootstrap&perline=9&theme=dark" alt="Frontend Technologies" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,sass,bootstrap&perline=9&theme=dark" alt="Frontend Technologies" />
+    </a>
+  </p>
 
-#### ⚙️ Backend, AI, Cloud & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,git,github,vscode,figma,postman,vite&perline=10&theme=dark" alt="Backend and AI Tools" />
-  </a>
-</p>
-
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,postgres,git,github,vscode,docker,postman&perline=10&theme=dark" alt="Backend, Cloud & Tools" />
+    </a>
+  </p>
 </div>
 
 <br />
 
-| Domain | Technologies & Systems | Focus Area |
+| Domain | Core Technologies | Specialization |
 | :--- | :--- | :--- |
-| **01 // Full-Stack Core** | `React.js`, `Next.js 15 (App Router)`, `TypeScript`, `JavaScript (ES6+)` | Client & Server Components, State Architecture |
-| **02 // AI & Automation** | `Python`, `AI APIs & LLMs`, `Automated Pipelines`, `Prompt Engineering` | Intelligent Workflows, Automation, Data Processing |
-| **03 // UI Systems** | `Tailwind CSS`, `Sass/SCSS`, `Bootstrap 5`, `Responsive Design` | Fluid Layouts, 60fps Micro-interactions, Design Systems |
-| **04 // Backend & APIs** | `Node.js`, `Express.js`, `MongoDB`, `RESTful APIs`, `JWT` | API Engineering, Database Architecture, Authentication |
-| **05 // Developer Tools** | `Git`, `GitHub`, `VS Code`, `Vite`, `Postman`, `npm / yarn / pnpm` | Version Control, CI/CD Workflows, Code Optimization |
-| **06 // UI/UX Prototyping**| `Figma`, `Wireframing`, `Design Tokens`, `Accessibility (a11y)` | Design-to-Code Parity, Intuitive User Journeys |
+| **Frontend** | `Next.js 15`, `React 19`, `TypeScript`, `JavaScript (ES6+)`, `Tailwind CSS`, `HTML5`, `CSS3` | App Router, Server Components, State Management, Responsive Design |
+| **Backend** | `Node.js`, `Express.js`, `Python`, `FastAPI`, `RESTful APIs`, `GraphQL` | Scalable Microservices, API Engineering, Authentication |
+| **AI & Automation** | `LLMs`, `RAG Systems`, `AI Agents`, `Tool Calling`, `Prompt Engineering`, `Python AI APIs` | Agentic Workflows, Structured Outputs, Context Augmentation |
+| **Cloud & Database** | `MongoDB`, `PostgreSQL`, `Firebase`, `Vercel`, `Supabase`, `Cloudflare` | Data Modeling, Serverless Deployments, Cloud Infrastructure |
+| **Tools & Workflow** | `Git`, `GitHub`, `Docker`, `VS Code`, `Postman`, `Figma`, `npm / yarn / pnpm` | CI/CD Pipelines, Agile Development, Code Optimization |
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Architecture & Description | Tech Stack | Status & Access |
-| :--- | :--- | :--- | :--- |
-| **[Pixel Programmers](https://github.com/abunayem04/pixel-programmers-)** | Collaborative web learning portal engineered for developers and students to share knowledge and master web technologies. | `HTML5` `CSS3` `JavaScript` `Responsive` | [Source Code ➔](https://github.com/abunayem04/pixel-programmers-) |
-| **[NX Restaurant](https://github.com/abunayem04/NX-resturent)** | Modern dining & culinary web application featuring interactive dynamic menu filtering, rich aesthetic UI, and fast reservation flows. | `HTML5` `CSS3` `UI/UX Design` | [Source Code ➔](https://github.com/abunayem04/NX-resturent) |
-| **[Portfolio Nexus](https://github.com/abunayem04/first-portfolio-)** | Official personal web portfolio demonstrating design system prototypes, creative UI components, and real-world client experiments. | `Next.js` `Tailwind` `React` `Modern Web` | [Source Code ➔](https://github.com/abunayem04/first-portfolio-) • [Live Demo 🌐](https://abunayem.com) |
-| **[Frontend Labs](https://github.com/abunayem04/Practice-work)** | Component R&D sandbox containing experimental layout architectures, micro-interactions, and modern JavaScript design patterns. | `Component Lab` `DOM API` `CSS3` | [Source Code ➔](https://github.com/abunayem04/Practice-work) |
-
----
-
-### 📊 GitHub Telemetry & Activity
+### 🚀 FEATURED PROJECTS
 
 <div align="center">
+  <p><strong>[ AI Agent ] • [ AI SaaS ] • [ AI Chatbot ] • [ Automation ] • [ Web App ] • [ Developer Tool ]</strong></p>
+</div>
+
+| Category | Project | Architecture & Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| 🤖 **AI Agent** | **Autonomous Task Agent** | Self-directed agent capable of browsing, researching, tool calling, and generating structured insights. | `Python` `AI Tools` `Automation` | [Source Code ➔](https://github.com/abunayem04) |
+| ⚡ **AI SaaS** | **Intelligent Web Platform** | Cloud-native SaaS application integrating multi-modal AI models for automated content and workflow synthesis. | `Next.js 15` `React` `Tailwind` `AI APIs` | [Source Code ➔](https://github.com/abunayem04) |
+| 💬 **AI Chatbot** | **Context-Aware Assistant** | Enterprise support chatbot powered by Retrieval-Augmented Generation (RAG) and domain knowledge embeddings. | `TypeScript` `Vector DB` `FastAPI` | [Source Code ➔](https://github.com/abunayem04) |
+| ⚙️ **Automation** | **Data & Workflow Pipeline** | Automated background workers extracting data, processing leads, and synchronizing distributed services. | `Node.js` `Python` `Cron` `REST API` | [Source Code ➔](https://github.com/abunayem04) |
+| 🍽️ **Web App** | **[NX Restaurant](https://github.com/abunayem04/NX-resturent)** | Responsive dining platform featuring dynamic menu filtering, interactive UI, and fluid reservation systems. | `HTML5` `CSS3` `JavaScript` `UI/UX` | [Explore Repo ➔](https://github.com/abunayem04/NX-resturent) |
+| 🛠️ **Developer Tool** | **[Pixel Programmers](https://github.com/abunayem04/pixel-programmers-)** | Collaborative web learning portal engineered for developers and students to share resources and level up skills. | `HTML5` `CSS3` `JavaScript` `Responsive` | [Explore Repo ➔](https://github.com/abunayem04/pixel-programmers-) |
+
+---
+
+### 📊 DEVELOPER ACTIVITY
+
+<div align="center">
+  <p><strong>Contributions | Streak | PRs | Issues</strong></p>
+
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abunayem04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" width="100%" alt="Abu Nayem's GitHub Stats" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abunayem04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" width="100%" alt="Developer Stats" />
       </td>
       <td align="center" width="50%" valign="top">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abunayem04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="100%" alt="Top Languages" />
@@ -151,15 +117,14 @@ My mission is to **build intelligent digital products that solve real-world prob
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <img src="https://streak-stats.demolab.com/?user=abunayem04&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=abunayem04&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="Developer Streak" />
       </td>
     </tr>
   </table>
-</div>
 
-<!-- Contribution Grid Snake -->
-<div align="center">
   <br />
+  
+  <!-- Contribution Graph Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abunayem04/abunayem04/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abunayem04/abunayem04/output/github-contribution-grid-snake.svg">
@@ -169,56 +134,134 @@ My mission is to **build intelligent digital products that solve real-world prob
 
 ---
 
-### 💡 Engineering Principles & Philosophy
+### 🤖 AI ENGINEERING
 
-> *"Code. Create. Automate. Elevate."*
+> **LLM • RAG • Agents • Tool Calling**
 
-- **⚡ Performance First**: Sub-second Largest Contentful Paint (LCP), minimal bundle sizes, and aggressive asset caching.
-- **📱 Fluid & Responsive**: Mobile-first design paradigms ensuring smooth, pixel-perfect scaling across all device viewports.
-- **♿ Inclusive & Accessible (a11y)**: Semantic HTML markup, keyboard-navigable workflows, and strict WCAG contrast compliance.
-- **🧩 Component-Driven Architecture**: Modular, reusable, and self-contained components following clean DRY principles.
-- **🔮 AI-Augmented Velocity**: Leveraging intelligent automation and AI tools to accelerate development velocity while enforcing rigorous software quality.
+```mermaid
+graph LR
+    User([👤 User Request]) --> Gateway[⚡ Next.js / API Gateway]
+    Gateway --> Agent[🤖 AI Agent Core]
+    Agent --> Tools[🛠️ Tool Calling & Execution]
+    Agent --> RAG[(📚 RAG & Vector Knowledge)]
+    Agent --> LLMs[🧠 Foundation LLMs]
+    Tools --> Pipeline[⚙️ Workflow Automation]
+    RAG --> Response([✨ Production Solution])
+    Pipeline --> Response
+```
+
+- **LLM Integrations**: Designing prompt chains, structured JSON schemas, and multi-turn conversational agents.
+- **RAG Systems**: Retrieval-Augmented Generation using vector search to ground models on dynamic private data.
+- **Autonomous Agents**: Implementing loop-based reasoning, planning, memory, and autonomous decision-making.
+- **Tool Calling**: Connecting AI directly to database querying, API requests, code execution, and third-party integrations.
 
 ---
 
-### 💬 Thought of the Day
+### 🧠 ENGINEERING PRINCIPLES
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
-</div>
+```yaml
+01 // Build for humans       : User experience and accessibility guide every architectural decision.
+02 // Keep it simple         : Favor clear, readable code over clever, unmaintainable abstractions.
+03 // Automate repetitive work: If a task must be done more than twice, write a script or build an agent.
+04 // Security by default    : Validate inputs, protect credentials, enforce least-privilege policies.
+05 // Ship → Measure → Improve: Build fast, measure real-world performance metrics, iterate continuously.
+```
 
 ---
 
-### 📬 Connect & Collaborate
+### 🔬 NAYEM LABS
 
-Looking to collaborate on an intelligent digital product, discuss full-stack architecture, or hire for engineering roles? Let's connect:
+> **Experiments • Prototypes • Research**
+
+- 🧪 **Autonomous Subagents**: Experimenting with hierarchical agent swarms for web data synthesis.
+- 🔬 **Generative UI Prototypes**: Dynamically rendering React components streamed on-the-fly from LLM responses.
+- 🧬 **Edge AI Execution**: Benchmarking local and edge model inference times for real-time web applications.
+- 📂 Repository: **[Frontend Labs & Experiments](https://github.com/abunayem04/Practice-work)** — Sandbox for UI experiments and code explorations.
+
+---
+
+### 🌍 OPEN SOURCE
+
+> **Contributions • PRs • Issues**
+
+```text
+✦ Community Mindset   : Actively contributing fixes, documentation, and features to open developer tools.
+✦ Issue Auditing      : Reporting reproducible edge cases and participating in architectural discussions.
+✦ Open Repositories   : Sharing boilerplates, component labs, and educational materials for the community.
+```
+
+- Feel free to review my public code, open issues, or submit PRs on any of my repositories!
+
+---
+
+### 📚 ENGINEERING NOTES
+
+> **JavaScript • React • AI • System Design**
+
+- **JavaScript (ES6+)**: Deep dive into the Event Loop, asynchronous microtasks, closures, and memory lifecycle.
+- **React 19 & Next.js 15**: Transitioning to React Server Components (RSC), Actions, streaming SSR, and zero-bundle hydration.
+- **AI Architecture**: Practical patterns for handling rate limits, context token optimization, and hallucination reduction.
+- **System Design**: Modular architectures, decoupled services, caching layers, and database indexing strategies.
+
+---
+
+### 🏆 ACHIEVEMENTS
+
+> **Projects • Certifications • Milestones**
+
+- 🚀 **Full-Stack Deliveries**: Successfully designed and delivered production client web apps and digital platforms.
+- 💼 **Industry Engagement**: Contributing to frontend engineering and digital solutions at **Etarnity Global**.
+- 🌟 **Community Founder**: Created **Pixel Programmers** to help aspiring developers build real-world software.
+- 📜 **Continuous Mastery**: Specialized certifications in Modern Full-Stack Development, React Architecture, and AI Tooling.
+
+---
+
+### 📈 MY JOURNEY
+
+> **2025 → 2026 → 2027 → ...**
+
+```text
+  2025 ───► Mastered Core Full-Stack (HTML5, CSS3, JavaScript, React Ecosystem)
+    │
+  2026 ───► Engineering AI-Augmented Web Apps, Agentic Workflows & Automation Pipelines
+    │
+  2027+ ──► Pioneering Scalable Intelligent Systems, Global SaaS & Open Source Innovations
+```
+
+---
 
 <div align="center">
+
+  <br />
+  
+  ### *"Build beyond the obvious."*
+  
+  <br />
+
+  <h2>Let's build something.</h2>
+
+  <p>Looking to collaborate, hire, or brainstorm an intelligent system? Reach out directly:</p>
+
   <a href="https://abunayem.com" target="_blank">
     <img src="https://img.shields.io/badge/Official%20Website-abunayem.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/ai-nayem/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ai--nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/8801764467266" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
   <a href="mailto:hello@abunayem.com">
     <img src="https://img.shields.io/badge/Email-hello%40abunayem.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/8801764467266" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.facebook.com/abunayem04" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-abunayem04-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/abu_nayeeem/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@abu__nayeeem-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
 
-<br />
-
-<div align="center">
-  <a href="#abunayem04"><b>▲ Return to Top</b></a>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <p align="center"><i>⭐ Code. Create. Automate. Elevate. • Khulna, Bangladesh ⭐</i></p>
+  <a href="#nayem"><b>▲ Return to Top</b></a>
+  <br /><br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=90&section=footer" width="100%" alt="Footer Wave" />
+
 </div>
