@@ -233,35 +233,62 @@ graph LR
 <div align="center">
 
   <br />
-  
-  ### *"Build beyond the obvious."*
-  
+
+  <!-- Animated Master Footer CTA Card -->
+  <img src="./assets/footer-cta.svg" width="100%" alt="Build Beyond the Obvious - AI Nayem" />
+
+  <br /><br />
+
+  <!-- Symmetrical 3x2 Grid Contact Badges -->
+  <table border="0" cellspacing="8" cellpadding="0">
+    <tr>
+      <td align="center">
+        <a href="https://abunayem.com" target="_blank">
+          <img src="https://img.shields.io/badge/Official%20Website-abunayem.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/ai-nayem/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-ai--nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:hello@abunayem.com">
+          <img src="https://img.shields.io/badge/Business%20Email-hello%40abunayem.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://wa.me/8801764467266" target="_blank">
+          <img src="https://img.shields.io/badge/WhatsApp-Direct%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.facebook.com/abunayem04" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-abunayem04-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/abu_nayeeem/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-@abu__nayeeem-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
   <br />
 
-  <h2>Let's build something.</h2>
-
-  <p>Looking to collaborate, hire, or brainstorm an intelligent system? Reach out directly:</p>
-
-  <a href="https://abunayem.com" target="_blank">
-    <img src="https://img.shields.io/badge/Official%20Website-abunayem.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/ai-nayem/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ai--nayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hello@abunayem.com">
-    <img src="https://img.shields.io/badge/Email-hello%40abunayem.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/8801764467266" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/abunayem04" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-abunayem04-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <!-- Return to Top Modern Pill Button -->
+  <a href="#nayem">
+    <img src="https://img.shields.io/badge/▲-Return%20To%20Top-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Return to Top" />
   </a>
 
   <br /><br />
-  <a href="#nayem"><b>▲ Return to Top</b></a>
-  <br /><br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=90&section=footer" width="100%" alt="Footer Wave" />
+  <!-- Animated Multi-Color Wave with Text -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20,30&height=140&section=footer&text=NAYEM%20%E2%80%A2%20AI%20%C3%97%20WEB%20%C3%97%20AUTOMATION&fontSize=15&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="Footer Wave" />
+
+  <p align="center"><i>⭐ Code. Create. Automate. Elevate. • Khulna, Bangladesh ⭐</i></p>
 
 </div>
