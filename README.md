@@ -332,14 +332,9 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
 
 > *Production architectures for autonomous agent orchestration, RAG pipelines, and LLM integrations.*
 
-<br />
-
-<!-- Interactive High-End AI System Architecture Diagram -->
-<div align="center">
-  <img src="./assets/ai-architecture.svg" width="100%" alt="AI Engineering System Architecture - Abu Nayem" />
-</div>
-
-<br />
+```text
+  User Query ──► Edge Gateway ──► Agent Core (Planner • Memory) ──► [ RAG • Tools • LLMs ] ──► Verified Solution
+```
 
 <table border="0" cellspacing="10" cellpadding="0">
   <tr>
