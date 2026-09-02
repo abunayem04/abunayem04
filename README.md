@@ -330,24 +330,47 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
 
 ### 🤖 AI ENGINEERING
 
-> **LLM • RAG • Agents • Tool Calling**
+> *Production architectures for autonomous agent orchestration, RAG pipelines, and LLM integrations.*
 
-```mermaid
-graph LR
-    User([👤 User Request]) --> Gateway[⚡ Next.js / API Gateway]
-    Gateway --> Agent[🤖 AI Agent Core]
-    Agent --> Tools[🛠️ Tool Calling & Execution]
-    Agent --> RAG[(📚 RAG & Vector Knowledge)]
-    Agent --> LLMs[🧠 Foundation LLMs]
-    Tools --> Pipeline[⚙️ Workflow Automation]
-    RAG --> Response([✨ Production Solution])
-    Pipeline --> Response
-```
+<br />
 
-- **LLM Integrations**: Designing prompt chains, structured JSON schemas, and multi-turn conversational agents.
-- **RAG Systems**: Retrieval-Augmented Generation using vector search to ground models on dynamic private data.
-- **Autonomous Agents**: Implementing loop-based reasoning, planning, memory, and autonomous decision-making.
-- **Tool Calling**: Connecting AI directly to database querying, API requests, code execution, and third-party integrations.
+<!-- Interactive High-End AI System Architecture Diagram -->
+<div align="center">
+  <img src="./assets/ai-architecture.svg" width="100%" alt="AI Engineering System Architecture - Abu Nayem" />
+</div>
+
+<br />
+
+<table border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Autonomous Agent Loops</h4>
+      <p>
+        Implementing self-directed <b>ReAct</b> (Reasoning + Acting) decision cycles, long-term vector memory, goal decomposition, and multi-agent coordination.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 Context-Aware RAG Systems</h4>
+      <p>
+        Engineering high-precision Retrieval-Augmented Generation pipelines using dense embeddings, hybrid BM25 + vector search, and contextual reranking to ground responses on dynamic data.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Foundation LLM Integration</h4>
+      <p>
+        Designing robust prompt chains, deterministic structured JSON schemas (Zod/Pydantic), hallucination guardrails, and real-time streaming interfaces.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Deterministic Tool Calling</h4>
+      <p>
+        Empowering models to interface directly with external environments—executing sandboxed code, querying live SQL/NoSQL databases, and triggering distributed background webhooks.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
