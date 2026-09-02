@@ -256,14 +256,14 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
     <td width="50%" valign="top">
       <h3>🍽️ NX Restaurant Platform</h3>
       <p>
-        <img src="https://img.shields.io/badge/Web%20App-Interactive%20Portal-06B6D4?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Web%20Portal-Pure%20HTML5-06B6D4?style=flat-square" alt="Category" />
         <img src="https://img.shields.io/badge/Repo-Public-10B981?style=flat-square" alt="Status" />
       </p>
       <p>
-        Modern dining web application featuring dynamic real-time menu categorization, fluid interactive animations, and responsive booking interfaces.
+        Clean, accessible culinary dining platform built purely with semantic HTML5 standards, featuring structured course menus and native reservation booking forms.
       </p>
       <p>
-        <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>UI/UX Design</code>
+        <b>Tech Stack:</b> <code>HTML5</code> <code>Semantic Markup</code> <code>Native Forms</code> <code>Tables</code>
       </p>
       <p>
         <a href="https://github.com/abunayem04/NX-resturent" target="_blank">
@@ -271,21 +271,21 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         </a>
       </p>
     </td>
-    <!-- Project 6: Developer Tool -->
+    <!-- Project 6: Portfolio Website -->
     <td width="50%" valign="top">
-      <h3>🛠️ Pixel Programmers Hub</h3>
+      <h3>💼 Personal Developer Portfolio</h3>
       <p>
-        <img src="https://img.shields.io/badge/Dev%20Community-Learning%20Portal-6366F1?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Web%20Portfolio-HTML5%20%26%20CSS3-6366F1?style=flat-square" alt="Category" />
         <img src="https://img.shields.io/badge/Repo-Public-10B981?style=flat-square" alt="Status" />
       </p>
       <p>
-        Collaborative learning and resource hub built for junior developers and students to share curated roadmaps, cheat sheets, and coding exercises.
+        Sleek, responsive developer portfolio website crafted with HTML5 and custom CSS3 Flexbox, featuring modern typography hierarchies and skill showcases.
       </p>
       <p>
-        <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Responsive</code>
+        <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>Flexbox</code> <code>Google Fonts</code>
       </p>
       <p>
-        <a href="https://github.com/abunayem04/pixel-programmers-" target="_blank">
+        <a href="https://github.com/abunayem04/first-portfolio-" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
         </a>
       </p>
