@@ -328,59 +328,6 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
 
 ---
 
-### 🤖 AI ENGINEERING
-
-> *Production architectures for autonomous agent orchestration, RAG pipelines, and LLM integrations.*
-
-```text
-  User Query ──► Edge Gateway ──► Agent Core (Planner • Memory) ──► [ RAG • Tools • LLMs ] ──► Verified Solution
-```
-
-<table border="0" cellspacing="10" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Autonomous Agent Loops</h4>
-      <p>
-        Implementing self-directed <b>ReAct</b> (Reasoning + Acting) decision cycles, long-term vector memory, goal decomposition, and multi-agent coordination.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 Context-Aware RAG Systems</h4>
-      <p>
-        Engineering high-precision Retrieval-Augmented Generation pipelines using dense embeddings, hybrid BM25 + vector search, and contextual reranking to ground responses on dynamic data.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Foundation LLM Integration</h4>
-      <p>
-        Designing robust prompt chains, deterministic structured JSON schemas (Zod/Pydantic), hallucination guardrails, and real-time streaming interfaces.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Deterministic Tool Calling</h4>
-      <p>
-        Empowering models to interface directly with external environments—executing sandboxed code, querying live SQL/NoSQL databases, and triggering distributed background webhooks.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧠 ENGINEERING PRINCIPLES
-
-```yaml
-01 // Build for humans       : User experience and accessibility guide every architectural decision.
-02 // Keep it simple         : Favor clear, readable code over clever, unmaintainable abstractions.
-03 // Automate repetitive work: If a task must be done more than twice, write a script or build an agent.
-04 // Security by default    : Validate inputs, protect credentials, enforce least-privilege policies.
-05 // Ship → Measure → Improve: Build fast, measure real-world performance metrics, iterate continuously.
-```
-
----
-
 ### 🔬 NAYEM LABS
 
 > **Experiments • Prototypes • Research**
