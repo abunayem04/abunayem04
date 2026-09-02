@@ -51,6 +51,21 @@
 
 ---
 
+### 👨‍💻 ABOUT ME
+
+> *“Code. Create. Automate. Elevate.”*
+
+I am an **AI-Powered Full-Stack Developer** based in **Khulna, Bangladesh**, currently engineering scalable web architectures and intelligent digital solutions at **Etarnity Global**. My passion lies at the convergence of **intuitive frontend design**, **high-throughput backend systems**, and **autonomous AI-driven automation**.
+
+With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, and cloud services, I bridge the gap between human imagination and machine precision—shipping production-grade web applications that deliver measurable value.
+
+- 🔭 **Currently Exploring**: Next.js 15 Server Actions, React 19 Server Components, and multi-agent tool-calling architectures.
+- 💼 **Active Endeavors**: Developing full-stack AI SaaS platforms and growing the **Pixel Programmers** collaborative community.
+- ⚡ **Core Philosophy**: Fast execution, resilient clean code, user-first micro-interactions, and security by default.
+- 🌱 **Beyond the Screen**: Tech community mentor, open-source contributor, continuous learner, and relentless builder.
+
+---
+
 ### ⚡ CURRENTLY BUILDING
 
 > *Engineering intelligent digital products at the intersection of AI, Modern Web & Business Automation.*
