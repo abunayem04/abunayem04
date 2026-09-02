@@ -328,39 +328,85 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
 
 ---
 
-### 🔬 NAYEM LABS
+### 🔬 RESEARCH LABS & ECOSYSTEM
 
-> **Experiments • Prototypes • Research**
+> *Active prototypes, engineering deep dives, and open-source explorations.*
 
-- 🧪 **Autonomous Subagents**: Experimenting with hierarchical agent swarms for web data synthesis.
-- 🔬 **Generative UI Prototypes**: Dynamically rendering React components streamed on-the-fly from LLM responses.
-- 🧬 **Edge AI Execution**: Benchmarking local and edge model inference times for real-time web applications.
-- 📂 Repository: **[Frontend Labs & Experiments](https://github.com/abunayem04/Practice-work)** — Sandbox for UI experiments and code explorations.
+<br />
 
----
+<!-- 3-Column R&D Labs Shelf -->
+<table border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>🧪 Autonomous Swarms</h4>
+      <p>
+        <img src="https://img.shields.io/badge/R%26D-Agentic%20Swarm-8B5CF6?style=flat-square" alt="R&D" />
+      </p>
+      <p>
+        Experimenting with hierarchical multi-agent loops and autonomous tool execution for distributed web intelligence.
+      </p>
+      <p>
+        <code>LangGraph</code> <code>Python</code> <code>Tool Calling</code>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>⚡ Generative UI Pipelines</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Prototype-Next.js%2015%20RSC-38BDF8?style=flat-square" alt="Prototype" />
+      </p>
+      <p>
+        Dynamically rendering and streaming typed React components on-the-fly directly from LLM completion streams.
+      </p>
+      <p>
+        <code>React 19</code> <code>AI SDK</code> <code>Tailwind</code>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>🧬 Edge AI Inference</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Benchmark-Sub--100ms-10B981?style=flat-square" alt="Benchmark" />
+      </p>
+      <p>
+        Benchmarking localized small-language models (SLMs) running inside Cloudflare Workers and WebAssembly runtimes.
+      </p>
+      <p>
+        <code>ONNX</code> <code>WASM</code> <code>Cloudflare</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🌍 OPEN SOURCE
+<br />
 
-> **Contributions • PRs • Issues**
-
-```text
-✦ Community Mindset   : Actively contributing fixes, documentation, and features to open developer tools.
-✦ Issue Auditing      : Reporting reproducible edge cases and participating in architectural discussions.
-✦ Open Repositories   : Sharing boilerplates, component labs, and educational materials for the community.
-```
-
-- Feel free to review my public code, open issues, or submit PRs on any of my repositories!
-
----
-
-### 📚 ENGINEERING NOTES
-
-> **JavaScript • React • AI • System Design**
-
-- **JavaScript (ES6+)**: Deep dive into the Event Loop, asynchronous microtasks, closures, and memory lifecycle.
-- **React 19 & Next.js 15**: Transitioning to React Server Components (RSC), Actions, streaming SSR, and zero-bundle hydration.
-- **AI Architecture**: Practical patterns for handling rate limits, context token optimization, and hallucination reduction.
-- **System Design**: Modular architectures, decoupled services, caching layers, and database indexing strategies.
+<!-- 2-Column Split: Engineering Intel & Open Source -->
+<table border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <!-- Left: Engineering Intel -->
+    <td width="55%" valign="top">
+      <h4>📚 Engineering Deep Dives</h4>
+      <p>
+        <b>⚡ JavaScript Core:</b> Event Loop microtask queues, V8 garbage collection & asynchronous scheduling.<br />
+        <b>⚛️ React 19 / Next.js 15:</b> Server Actions, streaming SSR, and zero-bundle client hydration.<br />
+        <b>🤖 AI Optimization:</b> Context token compaction, prompt caching & deterministic schema validation.<br />
+        <b>🏛️ System Design:</b> Decoupled microservices, database connection pooling & Redis caching layers.
+      </p>
+    </td>
+    <!-- Right: Open Source -->
+    <td width="45%" valign="top">
+      <h4>🌍 Open Source & Community</h4>
+      <p>
+        <b>✦ Upstream Fixes:</b> Reporting reproducible edge cases and submitting PRs to open-source developer tooling.<br />
+        <b>✦ Public Blueprints:</b> Publishing reusable component labs, cheat sheets, and architectural starter kits.<br />
+        <b>✦ UI Sandbox:</b> Check out <a href="https://github.com/abunayem04/Practice-work"><b>Practice-work</b></a> for frontend explorations.
+      </p>
+      <p>
+        <a href="https://github.com/abunayem04?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Explore%20All%20Repositories%20%E2%9E%94-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="All Repos" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
